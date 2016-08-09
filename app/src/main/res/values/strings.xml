@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CellularSignal</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="lte_cellular_info">LTE Cellular Info\n\n</string>
+    <string name="umts_cellular_info">UMTS Cellular Info\n\n</string>
+    <string name="gsm_cellular_info">GSM Cellular Info\n\n</string>
+    <string name="cdma_cellular_info">CDMA Cellular Info\n\n</string>
+</resources>
